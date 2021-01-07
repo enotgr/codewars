@@ -1,5 +1,5 @@
 // Printer Errors | 7 kyu
-// https://www.codewars.com/kata/56541980fa08ab47a0000040/train/javascript
+// https://www.codewars.com/kata/56541980fa08ab47a0000040
 
 function printerError(s) {
   return (s.match(/[n-z]/g)||[]).length + '/' + s.length;
