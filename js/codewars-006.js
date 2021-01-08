@@ -1,5 +1,5 @@
 // Even Binary Sorting | 6kyu
-// https://www.codewars.com/kata/582bbdbcc190132e3e0001f3/solutions/javascript
+// https://www.codewars.com/kata/582bbdbcc190132e3e0001f3
 
 function evenBinary(n) {
   const evenNums = [];
