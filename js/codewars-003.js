@@ -1,5 +1,5 @@
 // Find The Parity Outlier | 6kyu
-// https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/javascript
+// https://www.codewars.com/kata/5526fc09a1bbd946250002dc
 
 function findOutlier(integers){
   const startNums = integers.slice(0, 3);
