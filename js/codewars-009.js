@@ -1,4 +1,4 @@
-// Valid Parentheses | 5 kyu
+// Valid Parentheses | 5kyu
 // https://www.codewars.com/kata/52774a314c2333f0a7000688
 
 function validParentheses(parens){
