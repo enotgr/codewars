@@ -18,6 +18,3 @@ function rot13(message) {
 
 console.log(rot13('abc lmn z 1 ABC LMN Z'));
 console.log(rot13('8*|'));
-console.log('|'.charCodeAt());
-// console.log('a'.charCodeAt(), 'z'.charCodeAt());
-// console.log('A'.charCodeAt(), 'Z'.charCodeAt());
